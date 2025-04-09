@@ -1,0 +1,15 @@
+.container {
+    width: 608px;
+    height: 608px;
+    border: 3px solid black; 
+    display: flex;
+    justify-content: flex-start;
+    flex-wrap: wrap;
+
+}
+
+.single {
+    border: 1px solid black;
+    width: 36.65px;
+    height: 36.65px;
+}
