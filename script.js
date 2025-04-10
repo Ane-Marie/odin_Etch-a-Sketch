@@ -12,3 +12,14 @@ function createDivs(num) {
 }
 
 createDivs(256);
+
+const allDivs = document.querySelectorAll("div");
+
+allDivs.forEach(elem => {
+    elem.addEventListener("mouseover", () => {
+        elem.style.backgroundColor = "black";
+    })
+    elem.addEventListener("mouseout", () => {
+        elem.style.backgroundColor = "white";
+    })
+})
