@@ -1,6 +1,16 @@
+button {
+    background-color: black;
+    color: white;
+    font-size: 18px;
+    font-family: cursive, sans-serif;
+    border-radius: 5px;
+    padding: 10px;
+    margin: 15px;
+
+}
 .container {
-    width: 608px;
-    height: 608px;
+    width: 480px;
+    height: 480px;
     border: 3px solid black; 
     display: flex;
     justify-content: flex-start;
@@ -10,6 +20,7 @@
 
 .single {
     border: 1px solid black;
-    width: 36.65px;
-    height: 36.65px;
+    width: 28.65px;
+    height: 28.65px;
+    
 }
