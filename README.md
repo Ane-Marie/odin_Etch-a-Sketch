@@ -11,7 +11,7 @@ A simple browser-based drawing app inspired by the classic Etch-a-Sketch toy. Bu
 
 ## How to use
 
-Go to [Live Demo](https://ane-marie.github.io/odin_Etch-a-Sketch/).
+Go to [Live Demo](https://ane-marie.github.io/odin_Etch-a-Sketch/) and have your fun!
 
 ## Project Goals
 
